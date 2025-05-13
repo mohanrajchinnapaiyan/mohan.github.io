@@ -28,15 +28,18 @@ Results-driven Senior Technical Program Manager with 19 years of IT experience, 
 - Financial Management: Budget Management, Cost Savings, ROI Analysis
 - Leadership: Global Team Leadership, Stakeholder Management, Mentoring
 - Communication: Executive Reporting, Client Presentations, Technical Documentation
-- AI/ML: Machine Learning, Deep Learning, NLP, Python, SQL, Python Libraries - NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, Deep Learning Frameworks - TensorFlow, PyTorch and Keras, NLP Libraries - NLTK, Hugging Face Transformers
+- AI/ML: Machine Learning, Deep Learning, NLP, Python, SQL, Python Libraries - NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn, Deep Learning Frameworks - TensorFlow, PyTorch and Keras, NLP Libraries - NLTK and Hugging Face Transformers
 - Generative AI: LLMs, GANs, Diffusion Models, VAEs.
 - AI Ethics & Responsible AI: Fairness, bias detection and mitigation, privacy-preserving ML.
 ## Projects
-
 ### Automated Insights Generator
-
+This LLM App with Streamlit, allows non-technical users to analyze data in their own words, getting quick visual and text results for better decision-making. 
+- Technologies used SQL, Python, Lang Chain and Streamlit.
 ### Voice based ChatBot
-
+Chatbot that leverages advanced AI models like OpenAI's GPT and Whisper for natural language processing and generation to build a conversational bot that accepts audio inputs, processes them, and returns audio responses in real time, thereby improving the call center experience and enhancing customer satisfaction.
+- Technologies used Gradio, OpenAI GPT, OpenAI Whisper, OpenAI TTS
 ### Capstone Project Title: Chatbot program, your AI companion to enhance AI adoption
-
+This Program Charter outlines the framework for the development and launch of a customizable chatbot offering targeted at large and medium-sized enterprise clients. This program is critical to the company's strategic response to competitive pressures in the AI/ML space and aims to provide a cutting-edge solution that accelerates our clients' AI adoption. The program will be executed within an environment of rapid technological change and significant internal resource constraints, requiring a highly collaborative and efficient approach.
+- Developed Program charter, End-to-End Program activities and phases using Agile Framework and Scrum methodology by defining Epics, Stories and Tasks.
 ## Education
+Bachelor Of Engineering | Anna University
